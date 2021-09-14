@@ -1,0 +1,6 @@
+def main():
+ array=["uniesp","2021","SI","ED"]
+
+ print("valor do array é o valor:",array[1])
+
+main ()
